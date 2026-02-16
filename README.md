@@ -1,4 +1,4 @@
-# Duolingo SSL Pinning Bypass for Android (20256 – Intercept & Capture HTTPS Traffic
+# Duolingo SSL Pinning Bypass for Android (2026) – Intercept & Capture HTTPS Traffic
 
 [![Telegram](https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20)](https://t.me/MUH4MM4DSH4KIB)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -28,9 +28,9 @@ This project provides a pre-patched **Duolingo APK** with SSL/TLS certificate pi
 
 <!-- Replace the placeholder URLs below with your actual screenshot and video links -->
 
-<img width="720" height="1640" alt="Duolingo SSL Pinning Bypass - Traffic Interception Screenshot" src="YOUR_SCREENSHOT_URL_HERE" />
+<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/3a77eabd-e865-4822-81d4-297b4d81551c" />
 
-▶️ [**Watch the Full Video Demonstration**](YOUR_VIDEO_URL_HERE)
+▶️ [**Watch the Full Video Demonstration**](https://github.com/user-attachments/assets/112556dd-3550-47d3-812c-6ce7e6421d8c)
 
 ---
 
